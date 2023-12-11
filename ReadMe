@@ -1,1 +1,36 @@
+What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+  During this class, I have learned how to containerize an application, and put it in the cloud using Docker and AWS. Learning these skills are essential for
+  software developers, and this will help me stand out amongst other applicants.
+Describe your strengths as a software developer.
+  As a software developer, one of my biggest strengths is my attention to detail. When developing code, I try my bnest to think of different scenarios
+  that the user could use to break the app, and define error handling for that.
+  I'm also always learning how things work. I can't be satisfied with my work if I don't understand the functions that I'm implementing. I need to dig deeper  
+  and figure out why things are the way they are, that way I can be better at developing logic that fits any situation.
+Identify the types of roles you are prepared to assume in a new job.
+  I believe that, as my time as a student comes to an end, I will be prepared to take on Junior developer positions. I would be comfortable with Full Stack Development,
+  though I am much better at backend logic than front-end code, like HTML and XML. o
+  I also believe that I have the experience for mobile development, Game development, and more. As an avid learner, I always look to broaden my horizons
 
+  How would you handle scale and error handling?
+    I would handle scale of a project by determining the projects goals, and determining whats infrastructure i have available to me. If i were   
+    developing a full-stack application for myself, I would likely use AWS's infrastructure, like s3, to handle scaling because it would be cost effective, 
+    and I would be able to scale my application as needed.
+    I would handle error handling by reading logs and testing different possible error situations.
+How would you predict the cost?
+    I would predict the cost by determining what is needed, calculating all of my resources, and most likely googling what an application of my size would cost on 
+    different cloud servers, like AWS.
+What is more cost predictable, containers or serverless?
+    Well that depends on your usage, your goals, and your...ability to manage expectations? For example, a serverless model could be more cost predictable if 
+  1. you have more experience with these models, and you understand the pricing well.
+  2. Because you know it will be pay-as-you-go, and you can scale up and down based on your needs.
+    A containerized approach can be predictable as well, as you can plan for the hardware you'll need, and go from there. It's not as easy to scale your application though
+    I believe thet question is a bit poorly worded.
+ Explain several pros and cons that would be deciding factors in plans for expansion.
+   This is also a poorly written question, unfortunately. I'm not quite sure what you're asking me, but I'll try to answer.
+  I THINK we're being asked what would make you choose serverless vs containers. You can choose a serverless model if you're looking for 
+  cost efficiency, and you don't have the infrastructure to support your own servers. You can use servers if you have the infrastructure and the
+  steady need for those servers and infrastructure. 
+
+What roles do elasticity and pay-for-service play in decision making for planned future growth?
+  My future goals are to create good, ethical software and support myself and my family. I enjoy the prospect of growth, 
+  and pay as you go services allow you to expand your application as needed. 
